@@ -1,3 +1,7 @@
 GIT. 
 1. creando repositorio
 2. git init
+3. git add primerospasosgit.txt
+4. git config --global user.name "Yo"
+5. git config --global user.email "email@dominio.com"
+6. git commit -m "primer commit"
