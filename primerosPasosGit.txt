@@ -1,0 +1,3 @@
+GIT. 
+1. creando repositorio
+2. git init
