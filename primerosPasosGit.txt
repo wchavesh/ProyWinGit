@@ -5,3 +5,5 @@ GIT.
 4. git config --global user.name "Yo"
 5. git config --global user.email "email@dominio.com"
 6. git commit -m "primer commit"
+7. git show primerospasosgit.txt
+8. git commit -> abre Vim para agregar mensaje
