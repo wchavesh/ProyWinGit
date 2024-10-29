@@ -7,3 +7,4 @@ GIT.
 6. git commit -m "primer commit"
 7. git show primerospasosgit.txt
 8. git commit -> abre Vim para agregar mensaje
+9. git diff -> muestra differencias
